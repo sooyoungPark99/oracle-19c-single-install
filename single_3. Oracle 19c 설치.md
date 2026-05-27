@@ -61,7 +61,7 @@ cd $ORACLE_HOME
 #### 5. 인벤토리 경로 확인
 - `/u01/app/oraInventory` 확인
 
-<img width="597" height="473" alt="image" src="https://github.com/user-attachments/assets/879ad437-e727-43db-8356-aacde58db14c" />
+<img width="1195" height="946" alt="image" src="https://github.com/user-attachments/assets/879ad437-e727-43db-8356-aacde58db14c" />
 
 #### 6. 운영 체제 그룹
 - Database Administrator (OSDBA): `dba`
@@ -78,7 +78,7 @@ cd $ORACLE_HOME
 #### 8. 필요 조건 검사
 - 해결되지 않는 항목은 **모두 무시** 선택
 
-<img width="599" height="472" alt="image" src="https://github.com/user-attachments/assets/50c37e85-9008-495d-82c9-8305a62bfa9b" />
+<img width="1195" height="946" alt="image" src="https://github.com/user-attachments/assets/50c37e85-9008-495d-82c9-8305a62bfa9b" />
 
 #### 9. 설치 완료 확인
 
@@ -86,7 +86,7 @@ cd $ORACLE_HOME
 설치 성공: Oracle Database 19c
 ```
 
-<img width="1202" height="947" alt="image" src="https://github.com/user-attachments/assets/f74f1316-85f0-4d9d-be62-89a27db73b96" />
+<img width="1195" height="947" alt="image" src="https://github.com/user-attachments/assets/f74f1316-85f0-4d9d-be62-89a27db73b96" />
 
 ---
 
@@ -103,4 +103,4 @@ which sqlplus
 sqlplus -version
 # SQL*Plus: Release 19.0.0.0.0
 ```
-<img width="918" height="221" alt="image" src="https://github.com/user-attachments/assets/03c97861-7ee6-4c49-8541-cd4c5a4f6db1" />
+<img width="1005" height="221" alt="image" src="https://github.com/user-attachments/assets/03c97861-7ee6-4c49-8541-cd4c5a4f6db1" />
