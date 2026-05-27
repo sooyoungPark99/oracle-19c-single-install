@@ -9,10 +9,10 @@ Oracle 19c는 ORACLE_HOME 경로에서 직접 압축을 풀면 설치가 된다.
 ```bash
 su - oracle
 
-mv /home/oracle/V1039330-01.zip $ORACLE_HOME
+mv /home/oracle/LINUX.X64_193000_db_home.zip $ORACLE_HOME
 cd $ORACLE_HOME
 
-unzip V1039330-01.zip
+unzip LINUX.X64_193000_db_home.zip
 ```
 
 압축 해제 후 확인:
