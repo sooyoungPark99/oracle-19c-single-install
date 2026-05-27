@@ -243,11 +243,10 @@ tnsping clonedb
 # 방화벽 상태 확인
 systemctl status firewalld
 
-<img width="1209" height="159" alt="image" src="https://github.com/user-attachments/assets/4c0dcdec-22f0-40e2-8368-fde1799fbce1" />
-
 # 방화벽이 실행 중인 경우에만 아래 명령어 실행
 firewall-cmd --permanent --add-port=1521/tcp
 firewall-cmd --reload
 ```
+<img width="1209" height="159" alt="image" src="https://github.com/user-attachments/assets/4c0dcdec-22f0-40e2-8368-fde1799fbce1" />
 
 > 2번 단계에서 방화벽을 비활성화했다면 이 단계는 생략한다.
